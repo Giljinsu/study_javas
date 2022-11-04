@@ -15,7 +15,7 @@ public class MinusAB {
         
         Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
-        // sc.nextLine();
+        // sc.nextLine();3
        
         int B = sc.nextInt();
         
