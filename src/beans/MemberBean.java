@@ -5,6 +5,10 @@ public class MemberBean {
     private String secondName;
     private String handleName;
 
+    public MemberBean() {
+
+    }
+    
     public MemberBean(String firstName, String secondName, String handleName) {
         this.firstName =firstName;
         this.secondName = secondName;
